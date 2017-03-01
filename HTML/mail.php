@@ -12,7 +12,7 @@ if ( isset($_POST['email']) && isset($_POST['name'])  && isset($_POST['message']
   }
   
   //
-  mail( "000.lunchbox@gmail.com", $_POST['name'], $_POST['message'], "From:" . $_POST['email'] );
+  mail( "info@nodegestion.es", $_POST['name'], $_POST['message'], "From:" . $_POST['email'] );
  
   //			^
   //  Replace with your email 
