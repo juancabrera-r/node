@@ -1445,7 +1445,7 @@ header .spacer + *{
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(103,213,181,0.8);
+  background-color: rgba(0,116,217,0.8);
   -webkit-transform: scale(0);
   -ms-transform: scale(0);
   transform: scale(0);
@@ -1672,7 +1672,7 @@ img.mfp-img{
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(103,213,181,0.8);
+  background-color: rgba(0,116,217,0.8);
   -webkit-transform: scale(0);
   -ms-transform: scale(0);
   transform: scale(0);
