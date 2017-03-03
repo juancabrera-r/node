@@ -305,7 +305,7 @@ website:    http://www.themepunch.com
 }
 
 .custom2 .tp-bullet {
-  border-color: #67d5b5;
+  border-color: white;
 }
 
 .custom .tp-bullet:hover,
@@ -315,7 +315,7 @@ website:    http://www.themepunch.com
 
 .custom2 .tp-bullet:hover,
 .custom2 .tp-bullet.selected {
-  background:#67d5b5;
+  background:white;
 }
 
 
